@@ -1,0 +1,6 @@
+caml
+clientside
+fluentui
+spfi
+spfx
+webpart
