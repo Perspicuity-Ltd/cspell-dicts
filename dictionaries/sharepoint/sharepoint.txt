@@ -4,3 +4,4 @@ fluentui
 spfi
 spfx
 webpart
+sharepoint
