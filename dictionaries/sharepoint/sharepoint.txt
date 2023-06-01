@@ -5,3 +5,4 @@ spfi
 spfx
 webpart
 sharepoint
+rushstack
