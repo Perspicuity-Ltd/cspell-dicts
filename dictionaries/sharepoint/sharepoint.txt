@@ -4,5 +4,15 @@ fluentui
 spfi
 spfx
 webpart
+webparts
 sharepoint
 rushstack
+Facepile
+odata
+getpreview
+termset
+OWSUSER
+OWSDATE
+spsite
+Visio
+VSTS
