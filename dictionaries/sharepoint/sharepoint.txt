@@ -16,3 +16,12 @@ OWSDATE
 spsite
 Visio
 VSTS
+userphoto
+querytext
+selectproperties
+sourceid
+rowlimit
+getmyproperties
+startdatetime
+enddatetime
+nometadata
